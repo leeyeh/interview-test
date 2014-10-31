@@ -1,0 +1,9 @@
+{
+  "name": "interview-tests",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.1.0"
+  }
+}
